@@ -1,4 +1,4 @@
-![LOGO](https://raw.githubusercontent.com/palash25/awesome-campus-ambassadors/master/assets/logo.gif)
+![LOGO](https://raw.githubusercontent.com/palash25/awesome-campus-ambassadors/master/assets/logo.svg)
 
 ## What is this?
 A list of various organizations(working in the domain of computer science) that offer campus ambassador positions.
