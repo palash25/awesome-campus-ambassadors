@@ -15,6 +15,6 @@ A list of various organizations(working in the domain of computer science) that 
 - [Fedora Campus Ambassador](https://fedoraproject.org/wiki/Campus_Ambassadors)
 - [openSUSE Campus Ambassador](https://en.opensuse.org/openSUSE:Campus_Ambassador)
 - [Jet Brains Campus Ambassador](https://www.jetbrains.com/education/programs/)
-
+- [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)
 ## Contributing
 PRs are welcome, just make sure that the cmapus ambassador program is offered by an organization working in the domain of computer science.
