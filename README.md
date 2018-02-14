@@ -18,3 +18,6 @@ A list of various organizations(working in the domain of computer science) that 
 - [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)
 ## Contributing
 PRs are welcome, just make sure that the cmapus ambassador program is offered by an organization working in the domain of computer science.
+
+If you like this list give it a star :star:
+If you know someone who can add more to this list do share it on twitter/facebook/slack/gitter/reddit anywhere you like.
