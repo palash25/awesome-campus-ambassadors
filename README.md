@@ -1,4 +1,4 @@
-![LOGO](https://github.com/palash25/awesome-campus-ambassadors/blob/master/assets/logo.png)
+<a target="_top" href="http://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2018/02/21/flamingtext_com_1519198847_347098630.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
 
 ## What is this?
 A list of various organizations(working in the domain of computer science) that offer campus ambassador positions.
