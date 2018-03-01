@@ -15,9 +15,11 @@
 <h5 align="center"><a href="https://github.com/palash25">Check out the rest of my projects. If you like them then follow me on Github.</a></h5>
 <br>
 
-## What is this?
-A list of various organizations(working in the domain of computer science) that offer campus ambassador positions.
+# What is this?
+Carefully curated list of various organizations (working in the domain of computer science) that offer campus ambassador positions to grads/undergrads.
 
+
+## Content
 - [GitHub Campus Exeperts](https://education.github.com/experts)
 - [Mozilla Club Captain](https://mozilla.teachable.com/p/mozilla-club-training)
 - [Docker Campus Ambassador](https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/)
