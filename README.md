@@ -1,4 +1,4 @@
-<a target="_top" href="http://www.flamingtext.com/" ><img src="https://raw.githubusercontent.com/palash25/awesome-campus-ambassadors/master/assets/logo.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
+<a target="_top" href="https://palash25.github.io/awesome-campus-ambassadors/" ><img src="https://raw.githubusercontent.com/palash25/awesome-campus-ambassadors/master/assets/logo.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
 
 <p align="center">
 <img src="https://awesome.re/badge.svg">
