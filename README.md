@@ -37,13 +37,13 @@ Carefully curated list of various organizations (working in the domain of comput
 - [She++ Campus Ambassador](http://www.sheplusplus.com/ambassadors/)
 
 ## Contributing
-PRs are welcome, just make sure that the cmapus ambassador program is offered by an organization working in the domain of computer science.
+PRs are welcome, just make sure that the campus ambassador program is offered by an organization working in the domain of computer science.
 
 The detailed guide to contributing is given in [CONTRIBUTING.md](https://github.com/palash25/awesome-campus-ambassadors/blob/master/CONTRIBUTING.md)
 
 ## Other ways of contributing
 If you don't know of any campus ambassador programmes and still want to contribute you can help this list gain more exposure and publicity which would invite new contributors with new additions to this list. You can help out in the following ways
-- Upvote this list on [Product Hunt]()
+- Upvote this list on [Product Hunt](https://www.producthunt.com/posts/awesome-campus-ambassadors)
 - Give it a shout out on [Twitter](https://twitter.com/), [LinkedIn](https://www.linkedin.com/), your [Gitter](https://gitter.im/) channels or on your [Slack](https://slack.com/) teams.
 - Include it in your blog posts.
 - Finally consider giving this list a star :star: and make it trend on [Github](https://github.com/explore?trending=repositories#trending)
