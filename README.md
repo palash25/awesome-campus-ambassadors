@@ -20,7 +20,7 @@ Carefully curated list of various organizations (working in the domain of comput
 
 
 ## Content
-- [GitHub Campus Exeperts](https://education.github.com/experts)
+- [GitHub Campus Experts](https://education.github.com/experts)
 - [Mozilla Club Captain](https://mozilla.teachable.com/p/mozilla-club-training)
 - [Docker Campus Ambassador](https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/) **(Discontinued)**
 - [Hyperledger Ambassador](https://wiki.hyperledger.org/community/ambassador)
