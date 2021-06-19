@@ -25,7 +25,8 @@ Carefully curated list of various organizations (working in the domain of comput
 - [Docker Campus Ambassador](https://blog.docker.com/2017/05/announcing-docker-student-developer-kit-campus-ambassador-program/) **(Discontinued)**
 - [Hyperledger Ambassador](https://wiki.hyperledger.org/community/ambassador)
 - [Microsoft Student Partner](https://msdn.microsoft.com/en-us/microsoftstudentpartners.aspx)
-- [Google Student Ambassador](https://sites.google.com/site/gstudentclubbzu/about-us/gsa-program)
+- [Google Student Ambassador](https://sites.google.com/site/gstudentclubbzu/about-us/gsa-program) **([Discontinued](https://en.wikipedia.org/wiki/Google_Student_Ambassador_Program#:~:text=The%20program%20was%20discontinued%20in%202016) since 2016)**
+<!-- Google discontinued it in 2016 -->
 - [Cloud Native Computing Foundation Ambassador](https://www.cncf.io/people/ambassadors/)
 - [HackerEarth Campus Ambassador](https://www.hackerearth.com/university/)
 - [HackerRank Student Ambassador](https://www.hackerrank.com/campus-ambassador-program)
