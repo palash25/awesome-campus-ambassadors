@@ -15,6 +15,9 @@
 <h5 align="center"><a href="https://github.com/palash25">Check out the rest of my projects. If you like them then follow me on Github.</a></h5>
 <br>
 
+# Note
+I am no longer maintaining this list, feel free to fork it and start your own.
+
 # What is this?
 Carefully curated list of various organizations (working in the domain of computer science) that offer campus ambassador positions to grads/undergrads.
 
